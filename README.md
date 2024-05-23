@@ -5,7 +5,6 @@ The RTA Severity project is the machine learning project in classification probl
 
 git config --global user.email "hameedhullah.j@gmail.com"
 
-git config --global user.name "hameedhullah"
 '''bash 
 pip install -r requirements.txt
 '''
